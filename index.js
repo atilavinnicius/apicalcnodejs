@@ -18,7 +18,7 @@ const init = async () => {
             var data = {
                 msg: 'Api Calculadora NodeJs'
             };
-
+            
             return data;
         }
     })
