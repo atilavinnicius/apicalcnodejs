@@ -1,0 +1,17 @@
+{
+  "name": "Api Calculadora NodeJs",
+  "version": "1.0.0",
+  "description": "Api de uma calculadora basica",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Átila Vinnicius",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
